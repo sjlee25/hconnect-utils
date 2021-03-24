@@ -1,4 +1,4 @@
-# hconnect-utils
+# HConnect Utils
 
 한양대학교에서 이용하는 [GitLab](https://gitlab.com/)인 [HConnect](https://hconnect.hanyang.ac.kr/)의 그룹 내 프로젝트들을 관리하기 위한 스크립트들입니다.
 
